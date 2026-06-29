@@ -16,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/1672-richest-customer-wealth) |
+## String
+|  |
+| ------- |
+| [3110-score-of-a-string](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/3110-score-of-a-string) |
 <!---LeetCode Topics End-->
