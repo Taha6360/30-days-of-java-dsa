@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/1991-find-the-middle-index-in-array) |
 | [1672-richest-customer-wealth](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/1672-richest-customer-wealth) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Prefix Sum
 |  |
 | ------- |
