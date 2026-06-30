@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/1672-richest-customer-wealth) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/1389-create-target-array-in-the-given-order) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+## Simulation
+|  |
+| ------- |
+| [1389-create-target-array-in-the-given-order](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/1389-create-target-array-in-the-given-order) |
 <!---LeetCode Topics End-->
