@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/1389-create-target-array-in-the-given-order) |
+| [1470-shuffle-the-array](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/1470-shuffle-the-array) |
 ## Prefix Sum
 |  |
 | ------- |
