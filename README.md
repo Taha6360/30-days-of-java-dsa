@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/1389-create-target-array-in-the-given-order) |
 | [1470-shuffle-the-array](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/1470-shuffle-the-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/1572-matrix-diagonal-sum) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/1672-richest-customer-wealth) |
 | [1572-matrix-diagonal-sum](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/1572-matrix-diagonal-sum) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## String
 |  |
 | ------- |
@@ -35,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1389-create-target-array-in-the-given-order](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/1389-create-target-array-in-the-given-order) |
+## Binary Search
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
