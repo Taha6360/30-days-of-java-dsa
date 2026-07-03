@@ -8,9 +8,11 @@ class Solution {
             else if (command.charAt(i) == '(' && command.charAt(i+1) == ')')
             {
                 finalOutput.append("o");
+                i++;
             }
             else if (command.charAt(i) == '(' && command.charAt(i+1)== 'a'){
                 finalOutput.append("al");
+                i+=3;
             }
         }
         return finalOutput.toString();
