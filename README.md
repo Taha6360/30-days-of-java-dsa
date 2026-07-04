@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/2643-row-with-maximum-ones) |
 | [1528-shuffle-string](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/1528-shuffle-string) |
+| [1773-count-items-matching-a-rule](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/1773-count-items-matching-a-rule) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/1678-goal-parser-interpretation) |
 | [1528-shuffle-string](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/1528-shuffle-string) |
+| [1773-count-items-matching-a-rule](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/1773-count-items-matching-a-rule) |
 ## Greedy
 |  |
 | ------- |
