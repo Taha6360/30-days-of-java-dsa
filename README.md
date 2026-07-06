@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/2643-row-with-maximum-ones) |
 | [1528-shuffle-string](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/1528-shuffle-string) |
 | [1773-count-items-matching-a-rule](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/1773-count-items-matching-a-rule) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Math
 |  |
 | ------- |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/2413-smallest-even-multiple) |
+## Sorting
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
