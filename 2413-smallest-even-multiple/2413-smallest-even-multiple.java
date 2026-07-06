@@ -22,3 +22,7 @@ class Solution {
     return multiple;
     }
 }
+// alternate easy one 
+        // If n % 2 == 0 (even), return n. Otherwise (odd), return n * 2.
+        // return (n % 2 == 0) ? n : n * 2;
+    
