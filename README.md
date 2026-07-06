@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2413-smallest-even-multiple](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/2413-smallest-even-multiple) |
+| [2469-convert-the-temperature](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/2469-convert-the-temperature) |
 ## Bit Manipulation
 |  |
 | ------- |
