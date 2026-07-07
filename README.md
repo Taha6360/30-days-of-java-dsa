@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/1678-goal-parser-interpretation) |
 | [1528-shuffle-string](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/1528-shuffle-string) |
 | [1773-count-items-matching-a-rule](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/1773-count-items-matching-a-rule) |
+| [0344-reverse-string](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
 | ------- |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/2089-find-target-indices-after-sorting-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
