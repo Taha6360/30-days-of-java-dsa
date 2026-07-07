@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/1528-shuffle-string) |
 | [1773-count-items-matching-a-rule](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/1773-count-items-matching-a-rule) |
 | [0344-reverse-string](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/0344-reverse-string) |
+| [0125-valid-palindrome](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
@@ -77,4 +78,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/0344-reverse-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0125-valid-palindrome](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
