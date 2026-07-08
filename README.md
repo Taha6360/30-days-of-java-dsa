@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-count-items-matching-a-rule](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/1773-count-items-matching-a-rule) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/Taha6360/30-days-of-java-dsa/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
